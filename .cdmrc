@@ -1,4 +1,4 @@
-tabs: ['src/App.jsx']
+tabs: ['src/App.vue', 'src/components/HelloWorld.vue']
 terminal-one: |
     yarn install
     yarn dev
